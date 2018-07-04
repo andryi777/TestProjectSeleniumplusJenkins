@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32936" started-at="2018-07-04T06:02:36Z" finished-at="2018-07-04T06:03:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32936" started-at="2018-07-04T06:02:36Z" finished-at="2018-07-04T06:03:09Z">
+      <class name="testcases.TC003">
+        <test-method status="PASS" signature="abc()[pri:0, instance:testcases.TC003@21213b92]" name="abc" duration-ms="10392" started-at="2018-07-04T06:02:59Z" finished-at="2018-07-04T06:03:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- testcases.TC003 -->
+      <class name="testcases.TC002">
+        <test-method status="PASS" signature="abc()[pri:0, instance:testcases.TC002@71318ec4]" name="abc" duration-ms="9072" started-at="2018-07-04T06:02:50Z" finished-at="2018-07-04T06:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- testcases.TC002 -->
+      <class name="testcases.TC001">
+        <test-method status="PASS" signature="abc()[pri:0, instance:testcases.TC001@31610302]" name="abc" duration-ms="13447" started-at="2018-07-04T06:02:37Z" finished-at="2018-07-04T06:02:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abc -->
+      </class> <!-- testcases.TC001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
